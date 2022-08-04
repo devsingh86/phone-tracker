@@ -1,9 +1,9 @@
 # phone-tracker
 
 #Editor Requirements
-#Install Visual Studio code
-#Install Python for VS code plugin
-#Install Live Server Plugin
+Install Visual Studio code<br />
+Install Python for VS code plugin
+Install Live Server Plugin
 
 #Get Python on local machine
 #https://data-flair.training/blogs/install-python-windows/
